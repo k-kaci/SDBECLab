@@ -1,0 +1,4 @@
+#ifndef NCURSES_PARAMETRES_H
+#define NCURSES_PARAMETRES_H
+
+#endif
