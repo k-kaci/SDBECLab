@@ -3,4 +3,4 @@
 
 
 
- ![Test Image 1](readme_images/fig-1)
+ ![](readme_images/fig-1.png)
