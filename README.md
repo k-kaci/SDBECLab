@@ -1,3 +1,3 @@
 # SDBECLab
  Spin Dipolar BEC Simulation
- ![galerie](readme_images/galerie)
+ ![galerie](readme_images/galerie.png)
